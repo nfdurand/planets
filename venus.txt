@@ -3,4 +3,5 @@ Durand is cool
 =======
 cool planet!
 For sure!
->>>>>>> 35de5b0e64cab8f6e0bcec3a1d6dd8b15b323867
+Finalement
+>>>>>> 34de5b0e64cab8f6e0bcec3a1d6dd8b15b323867
